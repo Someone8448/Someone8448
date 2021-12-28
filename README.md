@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on nothing (Currently)
 - 📫 How to reach me: at (Support Email Not Created [Yet])
+- might make api to make stuff encrypted/ closed source
+- designing a format to make music w/ note blocks (Minecraft)
 
 <!---
 Someone8448/Someone8448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
