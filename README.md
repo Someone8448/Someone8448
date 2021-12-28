@@ -5,6 +5,7 @@
 - 📫 How to reach me: at (Support Email Not Created [Yet])
 - might make api to make stuff encrypted/ closed source on github
 - designing a format to make music w/ note blocks (Minecraft)
+- i want to find weird ways to make my repos popular
 
 <!---
 Someone8448/Someone8448 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
