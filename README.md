@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Someone8448
 - 👀 I’m interested in coding, gaming, rubik's cubes
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on nothing (Currently)
+- 💞️ I’m looking to collaborate on API part below
 - 📫 How to reach me: at (Support Email Not Created [Yet])
-- might make api to make stuff encrypted/ closed source
+- might make api to make stuff encrypted/ closed source on github
 - designing a format to make music w/ note blocks (Minecraft)
 
 <!---
