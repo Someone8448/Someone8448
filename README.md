@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Someone8448
 - 👀 I’m interested in coding, gaming, rubik's cubes
-- 🌱 I’m currently learning HTML
+- 🌱 I mainly work in node.js
 - 💞️ I’m looking to collaborate on API part below
 - 📫 How to reach me: at (Support Email Not Created [Yet])
 - might make api to make stuff encrypted/ closed source on github
