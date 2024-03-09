@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Someone8448
 - 👀 I’m interested in coding, gaming, rubik's cubes
-- 🌱 I mainly work in node.js
-- 💞️ I’m looking to collaborate on API part below
-- 📫 How to reach me: Someone8448#6969 (Discord)
+- 🌱 I mainly work in node.js, I want to learn Rust though
+- 📫 How to reach me: someone8448 (Discord)
